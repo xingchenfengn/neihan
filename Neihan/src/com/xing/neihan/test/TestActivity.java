@@ -18,8 +18,8 @@ import com.android.volley.Response.Listener;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.xing.neihan.R;
-import com.xing.neihan.bin.ImageEntity;
-import com.xing.neihan.bin.ImageUrlList;
+import com.xing.neihan.bean.ImageEntity;
+import com.xing.neihan.bean.ImageUrlList;
 import com.xing.neihan.client.ClientAPI;
 
 /**
